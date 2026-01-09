@@ -24,9 +24,11 @@ El análisis ha sido desarrollado con el stack de **Data Science en Python**:
 * `docs/`: Documentación oficial del proyecto incluyendo la **Memoria.pdf** y la **Presentación.pdf**.
 * `README.md`: Este archivo informativo.
 
-## 🚀 Instrucciones de Reproducción
-Para ejecutar este proyecto en tu entorno local:
+## 💡 Principales Conclusiones
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/danmascarilla/Project_EDA.git](https://github.com/danmascarilla/Project_EDA.git)
+Tras el análisis exhaustivo de los datos, los hallazgos clave de nuestra investigación son:
+
+* **Correlación Débil ($r=0.20$):** La relación entre la nota de la crítica (**Metascore**) y las ventas globales es mucho menor de lo esperado. Una buena calificación ayuda a reducir el riesgo de fracaso, pero no es un factor que garantice por sí solo un éxito masivo en ventas.
+* **Independencia del Mercado Japonés:** Existe una clara diferencia geográfica. Mientras que EE.UU. y Europa tienen una correlación casi perfecta entre sí ($r > 0.97$), **Japón** muestra una dinámica independiente ($r=0.71$), lo que valida la necesidad de estrategias de marketing específicas para ese territorio.
+* **Marketing vs. Calidad (El "Efecto Hype"):** El volumen de críticas (`metascore_count`) resultó ser un predictor de ventas más potente que la nota numérica media. Esto indica que la **visibilidad y la conversación mediática** influyen más en el éxito comercial que la calidad técnica percibida.
+* **Divergencia Crítica/Usuario:** Se detectó una brecha de percepción moderada ($r=0.47$) entre la prensa especializada y los jugadores finales. Esto sugiere que los consumidores valoran aspectos del producto (como la diversión o la rejugabilidad) que no siempre coinciden con los criterios técnicos de los analistas.
