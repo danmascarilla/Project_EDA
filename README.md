@@ -32,3 +32,9 @@ Tras el análisis exhaustivo de los datos, los hallazgos clave de nuestra invest
 * **Independencia del Mercado Japonés:** Existe una clara diferencia geográfica. Mientras que EE.UU. y Europa tienen una correlación casi perfecta entre sí ($r > 0.97$), **Japón** muestra una dinámica independiente ($r=0.71$), lo que valida la necesidad de estrategias de marketing específicas para ese territorio.
 * **Marketing vs. Calidad (El "Efecto Hype"):** El volumen de críticas (`metascore_count`) resultó ser un predictor de ventas más potente que la nota numérica media. Esto indica que la **visibilidad y la conversación mediática** influyen más en el éxito comercial que la calidad técnica percibida.
 * **Divergencia Crítica/Usuario:** Se detectó una brecha de percepción moderada ($r=0.47$) entre la prensa especializada y los jugadores finales. Esto sugiere que los consumidores valoran aspectos del producto (como la diversión o la rejugabilidad) que no siempre coinciden con los criterios técnicos de los analistas.
+
+## Miembros del proyecto
+
+* [danmascarilla](https://github.com/danmascarilla)
+* [IvanMontero04](https://github.com/IvanMontero04)
+* [jonatan-luzon](https://github.com/jonatan-luzon)
