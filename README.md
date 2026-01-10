@@ -1,3 +1,6 @@
+# Enlace a video
+https://drive.google.com/file/d/1Bjpu1uCh-wwi1yBkLMDjNtjCAxumrIPq/view?usp=drive_link
+
 # Píxeles y Ganancias: ¿Influye la puntuación en el éxito comercial? 🎮📊
 
 Este repositorio contiene el **Análisis Exploratorio de Datos (EDA)** detallado sobre la industria de los videojuegos, investigando la relación real entre las puntuaciones de la crítica, los usuarios y el éxito en ventas a nivel global y regional.
