@@ -24,7 +24,7 @@ El análisis ha sido desarrollado con el stack de **Data Science en Python**:
 ## 📂 Estructura del Repositorio
 * `data/`: Datasets originales (`vgsales.csv`, `games.csv`) y datos procesados.
 * `notebooks/`: Cuadernos de trabajo (`pruebas_2.ipynb`) con el flujo de limpieza y análisis.
-* `docs/`: Documentación oficial del proyecto incluyendo la **Memoria.pdf** y la **Presentación.pdf**.
+* Documentación oficial del proyecto incluyendo la **Memoria.pdf** y la **Presentación.pdf**.
 * `README.md`: Este archivo informativo.
 
 ## 💡 Principales Conclusiones
